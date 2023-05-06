@@ -1,0 +1,18 @@
+table, td, th {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+table {
+    width: 50%;
+    height: 50%;
+    text-align: center;
+}
+
+.test {
+    font-size:16px;
+    color:red;
+}
+
+#name {
+    color:blue;
+}
